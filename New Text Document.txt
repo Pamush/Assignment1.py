@@ -1,0 +1,24 @@
+C:\Users\User\AppData\Local\Programs\Python\Python310\python.exe C:/Users/User/PycharmProjects/pythonProject/assgn.py
+Enter First number  : 2
+Enter Second number : 4
+Enter Third number :6
+Average of the three numbers :  4.0
+Enter The Gross Income : 500000
+ Enter Dependent : 3
+Your Income Tax :  96200.0
+Enter Student's SID : 122
+Enter Student's Name : Amush
+Enter Student's Gender : M
+Name of the Course : Civil
+CGPA of the Student : 5.5
+['122', 'Amush', 'M', 'Civil', '5.5']
+Marks of Student A : 5
+Marks of Student B : 6
+Marks of Student C : 4
+Marks of Student D : 8
+Marks of Student E : 2
+[5, 6, 4, 8, 2]
+['red', 'Green', 'White', 'Pink', 'Yellow']
+['red', 'Green', 'White', 'Purple', 'Purple', 'Yellow']
+
+Process finished with exit code 0
